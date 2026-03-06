@@ -13,6 +13,12 @@ Projects
 - Todo API
 - Blog API
 
+Skills
+- REST APIs
+- JWT Authentication
+- MongoDB
+
+  
 Currently Learning
 - React
 - Advanced backend architecture
