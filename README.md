@@ -20,5 +20,5 @@ Skills
 
   
 Currently Learning
-- React
+- TypeScript
 - Advanced backend architecture
