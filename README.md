@@ -6,12 +6,11 @@ Tech Stack
 - Node.js
 - Express
 - MongoDB
-- JWT
-- REST APIs
+- React
 
 Projects
+- Paytm
 - Todo API
-- Blog API
 
 Skills
 - REST APIs
