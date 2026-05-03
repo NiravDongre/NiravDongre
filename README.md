@@ -34,13 +34,10 @@ I build backend systems with:
 
 ### 💸 Wallet Backend (Paytm-style)
 
-A backend system simulating real-world transactions:
-
-* User authentication & authorization
-* Balance management
-* Secure money transfers using DB transactions
-* Middleware-based architecture
-* Production-focused security (rate limiting, sanitization)
+*FlowPay is a production-grade peer-to-peer digital wallet backend that handles real-world payment challenges like atomic money transfers,
+*idempotent transaction processing, and secure JWT authentication with token rotation. It ensures consistency *using MongoDB transactions,
+*prevents double-spending through idempotency keys, and provides paginated transaction history with structured logging 
+*for reliability and debugging.
 
 ---
 
